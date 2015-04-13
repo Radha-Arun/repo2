@@ -19,3 +19,4 @@
 19. GIT Hook scripts
 20.GIT rebase
 21.GIT Tag
+insert into table name command
