@@ -1,0 +1,21 @@
+1.Internals
+2.Sync
+3.Push
+4.Pull
+5.TC how to create new Job
+6.Adding new build agent
+7.Renaming a file in a cloned repository and how the history is maintained in main repo with new and old name - done
+8.Merge
+9.GIT Checkout and Build in TC using Maven
+10.Difference bwn Git and SVN
+11.Diff bwn GIT and GIThub
+12.Diff bwn Jenkins and TC
+13.Traf Architecture
+14.Agile Concepts
+15. bisect
+16.Cherry Pick merge.
+17.From next week onwards, we can ask for team to clarify the TC Errors.
+18.Creating tags in GIT
+19. GIT Hook scripts
+20.GIT rebase
+21.GIT Tag
